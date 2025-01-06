@@ -1,4 +1,5 @@
 https://themes.getbootstrap.com/product/dashbrd/
+https://themes.getbootstrap.com/preview/?theme_id=158620
 Bootstrap包含大量预构建组件 Bootstrap 更像是宜家组件，层次更高，提供的定制功能有限。 开箱即用。
 相对于tailwindcss更简单吧
 htmx + bootstrap5
