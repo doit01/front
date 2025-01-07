@@ -1,3 +1,8 @@
+方案一flowbite +其他js框架如vue,typescript
+方案三 vue element plus
+方案二买个bootstrap +vue bootstrap
+
+
 
 https://themes.getbootstrap.com/product/dashbrd/
 https://themes.getbootstrap.com/preview/?theme_id=158620
