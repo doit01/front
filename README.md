@@ -1,6 +1,6 @@
-方案一flowbite +其他js框架如vue,typescript
-方案三 vue element plus
-方案二买个bootstrap +vue bootstrap
+方案1 flowbite(tw) +其他js框架如vue,typescript
+方案2 vue element plus   https://github.com/element-plus/element-plus
+方案3 买个bootstrap5 + vue
 
 
 
