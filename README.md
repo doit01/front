@@ -1,7 +1,7 @@
 最综合 方案1 flowbite(tw) +其他js框架如vue,typescript
       https://flowbite.com/docs/getting-started/quickstart/ 
       https://github.com/themesberg/flowbite-vue
-      
+      定义了css实用类。直接写在html上
       
 最丰富 方案2 vue element plus   https://github.com/element-plus/element-plus
 
