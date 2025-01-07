@@ -1,4 +1,8 @@
 方案1 flowbite(tw) +其他js框架如vue,typescript
+      https://flowbite.com/docs/getting-started/quickstart/ 
+      https://github.com/themesberg/flowbite-vue
+      
+      
 方案2 vue element plus   https://github.com/element-plus/element-plus
 方案3 买个bootstrap5 + vue
 
