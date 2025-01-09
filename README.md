@@ -1,3 +1,5 @@
+htmx+ flowbite 。不用纠结single page 还是mutiple page，避免了学习前端框架，typescript成本。为后端打开了前端开发的大门。
+
 最综合 方案1 flowbite(tw) +其他js框架如vue,typescript
       https://flowbite.com/docs/getting-started/quickstart/ 
       https://github.com/themesberg/flowbite-vue
