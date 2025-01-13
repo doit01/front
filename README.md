@@ -17,7 +17,7 @@ Bootstrap包含大量预构建组件 Bootstrap 更像是宜家组件，层次更
 相对于tailwindcss更简单吧
 htmx + bootstrap5（组件不足，除非在getbootstrap付费买）
 
-页面开发工具Pinegrow  CoffeeCup  
+页面开发工具Pinegrow    
 600多免费的
 https://flowbite.com/docs/getting-started/quickstart/ 
 
