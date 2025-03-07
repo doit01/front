@@ -1,4 +1,8 @@
-flowbite 本身依赖vue。 so ，最好实践flowbite+vue
+
+最好实践vue+element plus  typescript
+
+
+flowbite 不如直接用element plus组件。 so ，
 
 或者购买bs5+js+themeleaf
 
