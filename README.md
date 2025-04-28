@@ -1,8 +1,9 @@
+tw很爽啊
+不得不用vue的原因是 element组件太强了
+最好实践tw+vue+element plus  typescript
 
-最好实践vue+element plus  typescript
 
-
-flowbite 不如直接用element plus组件。 so ，
+flowbite 组件太简单了 ，不如直接用element plus组件。 so ，
 
 或者购买bs5+js+themeleaf
 
