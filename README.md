@@ -1,3 +1,6 @@
+shoelace+htmx 简化方案，不适用复杂前端，如实时校验。
+
+
 tw很爽啊
 用于拷贝样式
 https://www.hyperui.dev/components/application/tables
