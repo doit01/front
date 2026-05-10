@@ -1,4 +1,7 @@
 用vue 3<script setup>,pinia,vue router 4,eslint+prettier+husky,vite ，naive UI，TypeScript这些技术栈来探索这样的项目
+https://github.com/jekip/naive-ui-admin
+https://github.com/zclzone/vue-naive-admin
+
 Vue (纯 Vite)	vite-plugin-pwa	社区最流行的 Vite PWA 插件，同样实现自动化配置和构建时缓存 PWA
 Service Worker：一个在后台运行的脚本，负责提前缓存资源，让应用秒开，并提供离线支持。
 Web App Manifest：一个包含应用名称、图标、启动界面等信息的 JSON 配置文件，它告诉浏览器：“这是一个可以安装的 App，请用原生 App 的样式去对待它”
