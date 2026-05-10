@@ -1,6 +1,6 @@
 用vue 3<script setup>,pinia,vue router 4,eslint+prettier+husky,vite ，naive UI，TypeScript这些技术栈来探索这样的项目
-https://github.com/jekip/naive-ui-admin
-https://github.com/zclzone/vue-naive-admin
+https://github.com/jekip/naive-ui-admin  TS
+https://github.com/zclzone/vue-naive-admin JS
 
 Vue (纯 Vite)	vite-plugin-pwa	社区最流行的 Vite PWA 插件，同样实现自动化配置和构建时缓存 PWA
 Service Worker：一个在后台运行的脚本，负责提前缓存资源，让应用秒开，并提供离线支持。
