@@ -7,6 +7,9 @@ qs ^6.14.0	查询字符串解析和序列化（处理 URL 参数）；lodash-es 
 eslint-plugin-vue ^9.33.0	Vue 文件的 ESLint 规则
 vue-draggable-next ^2.3.0	Vue3 拖拽组件
 Alova 代替 axios 是比较现代化的选择
+workbox-window
+vite-plugin-pwa
+
 
 
 https://github.com/jekip/naive-ui-admin  TS
