@@ -1,5 +1,7 @@
 用vue 3<script setup>,pinia,vue router 4,eslint+prettier+husky,vite ，naive UI，TypeScript这些技术栈来探索这样的项目
-
+PWA
+Service Worker：一个在后台运行的脚本，负责提前缓存资源，让应用秒开，并提供离线支持。
+Web App Manifest：一个包含应用名称、图标、启动界面等信息的 JSON 配置文件，它告诉浏览器：“这是一个可以安装的 App，请用原生 App 的样式去对待它”
 
 
 不得不用vue的原因是 element组件太强了
